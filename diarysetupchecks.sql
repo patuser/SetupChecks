@@ -20,7 +20,7 @@
  * with it, is triggered from. This query was originally published at http://forum.patrix.com/phpbb/viewtopic.php?f=48&t=324
  *
  * Usage: Just copy paste the query to your query tool and Put your Term Id in the variable @es_id and you are 
- * good to go (820 is only an example!).
+ * good to go (the value 820 is only an example!).
  *
  ***/
 
@@ -73,7 +73,7 @@ ORDER BY cc.CASE_MASTER_ID, mlse.CASE_CATEGORY_ID
  * Description: Quickly find all Diary Matrices where a Diary Field is defined.
  * 
  * Usage: Just copy paste the query to your query tool and Put your Term Id in the variable @diary_field_no and you are 
- * good to go (53 is only an example!).
+ * good to go (the value 53 is only an example!).
  * 
  ***/
 
@@ -124,7 +124,7 @@ ORDER BY cm.CASE_MASTER_LABEL,dm.MATRIX_TITLE
  * This has proven to be a very useful tool for finding and correcting missing setup...
  *   
  * Usage: Just copy paste the query to your query tool and Put your Term Id in the variable @es_id and you are
- * good to go (550 is only an example!).
+ * good to go (the value 550 is only an example!).
  * 
  ***/
 
